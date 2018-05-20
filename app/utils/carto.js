@@ -1,1 +1,1 @@
-export { default } from 'carto-promises-utility/utils/carto';
+export { default } from 'cartobox-promises-utility/utils/carto';
