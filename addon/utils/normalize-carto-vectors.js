@@ -1,4 +1,4 @@
-import carto from 'carto-promises-utility/utils/carto';
+import carto from 'cartobox-promises-utility/utils/carto';
 import { isArray } from '@ember/array';
 import { getProperties } from '@ember/object';
 import { Promise } from 'rsvp';
