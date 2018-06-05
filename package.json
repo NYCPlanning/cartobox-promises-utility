@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^6.6.0",
-    "ember-fetch": "4.0.1"
+    "ember-fetch": "5.0.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
